@@ -1,4 +1,4 @@
-# HMCL Download Region Patch
+# HMCL Launcher Region Unlock Patch
 
 A small, source-reproducible patch for
 [Hello Minecraft! Launcher (HMCL)](https://github.com/HMCL-dev/HMCL)

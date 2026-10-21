@@ -51,6 +51,7 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/v')
         uses: softprops/action-gh-release@v2
         with:
+          name: "HMCL Launcher Region Unlock Patch ${{ github.ref_name }}"
           files: dist/HMCL-*-patched.jar
           body: |
             Region-unlocked HMCL jar built by GitHub Actions from the
