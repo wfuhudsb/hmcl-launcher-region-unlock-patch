@@ -63,7 +63,7 @@ the patched class inside the final jar.
 
 ## Use
 
-1. Download the patched jar from the latest [release](../../releases) (or build it yourself — recommended if you don't trust binary artifacts).
+1. Download the patched jar from the latest **Releases** of this repository (or build it yourself — recommended if you don't trust binary artifacts).
 2. Double-click it (needs Java ≥ 17). Your existing `.hmcl` config and game directories work as-is.
 3. **Turn off in-app auto-update**, or a future official update will overwrite the patch.
 
